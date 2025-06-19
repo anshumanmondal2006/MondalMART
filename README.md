@@ -2,6 +2,13 @@
 
 An E-Commerce app built using Flutter and Firebase featuring basic user authentication, cart management, and product listing. It Includes features like user login/logout, add/delete products from cart.
 
+## 🎥 Demo
+
+[![Watch the demo](demo/demogif.gif)](demo/demo.mp4)
+
+> 🔗 Click the GIF above to watch the full 60-second video demo.
+
+
 ## Steps to test the application on your local machine
 
 Follow the steps below to set up and run the project locally.
