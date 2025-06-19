@@ -72,7 +72,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-To download the application click on the link below:
+To download the application click on this link:
 [![Download APK](https://img.shields.io/badge/Download-APK-green?logo=android)](https://drive.google.com/uc?export=download&id=1X8zXJU6YBouq2P4aEfjO6Fbrw3kKLZKR)
 
 ## 📃 License
