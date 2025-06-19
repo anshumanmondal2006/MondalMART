@@ -1,6 +1,6 @@
 # MondalMART (A basic E-Commerce Platform)
 
-An E-Commerce app built using Flutter and Firebase featuring basic user authentication, cart management, and product listing. Includes login/logout, add/delete products from cart.
+An E-Commerce app built using Flutter and Firebase featuring basic user authentication, cart management, and product listing. It Includes features like user login/logout, add/delete products from cart.
 
 ## Steps to test the application on your local machine
 
