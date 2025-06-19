@@ -79,4 +79,10 @@ To download the application click on this link:
 
 This project is licensed under the [MIT License](LICENSE).
 
+## 💖 Wish to drop a compliment?
+
+For any further queries, feel free to reach out:
+
+📧 Email: [anshuman.mondal@iitg.ac.in](mailto:anshuman.mondal@iitg.ac.in)  
+🔗 LinkedIn: [Connect on LinkedIn]([https://www.linkedin.com/in/anshumanmondal2006/](https://www.linkedin.com/in/anshuman-mondal-145314280))
 
