@@ -5,8 +5,10 @@ An E-Commerce app built using Flutter and Firebase featuring basic user authenti
 ## 🎥 Demo
 
 [![Watch the demo](demo/demogif.gif)](demo/demo.mp4)
+<a href="demo/demo.mp4">
+  <img src="demo/demogif.gif" alt="Watch the demo" width="200" height="400"/>
+</a>
 
-> 🔗 Click the GIF above to watch the full 60-second video demo.
 
 
 ## Steps to test the application on your local machine
