@@ -4,9 +4,8 @@ An E-Commerce app built using Flutter and Firebase featuring basic user authenti
 
 ## 🎥 Demo
 
-[![Watch the demo](demo/demogif.gif)](demo/demo.mp4)
 <a href="demo/demo.mp4">
-  <img src="demo/demogif.gif" alt="Watch the demo" width="200" height="400"/>
+  <img src="demo/demogif.gif" alt="Watch the demo" width="400" height="600"/>
 </a>
 
 
