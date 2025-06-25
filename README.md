@@ -64,7 +64,6 @@ flutter run
 - firebase_core – Core Firebase integration
 - firebase_auth – User authentication
 - cloud_firestore – NoSQL database for products & cart
-- firebase_storage – Product image storage
 
 ## ❗ Requirements
 
